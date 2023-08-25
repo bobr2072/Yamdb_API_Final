@@ -1,5 +1,5 @@
 # API для проекта YaMDB в контейнере Docker
-[![API for YaMDB project workflow](https://github.com/bobr2072/Yamdb_API/yamdb_workflow.yml/badge.svg?branch=master)] (https://github.com/bobr2072/Yamdb_API/yamdb_workflow.yml)
+[![API for YaMDB project workflow](https://github.com/bobr2072/Yamdb_API/blob/main/yamdb_workflow.yml/badge.svg?branch=master)] (https://github.com/bobr2072/Yamdb_API/blob/main/yamdb_workflow.yml)
 
 [![Python](https://img.shields.io/badge/-Python-464646?style=flat-square&logo=Python)](https://www.python.org/)
 [![Nginx](https://img.shields.io/badge/-NGINX-464646?style=flat-square&logo=NGINX)](https://nginx.org/ru/)
